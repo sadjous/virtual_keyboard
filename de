@@ -6,7 +6,7 @@
 
 xkb_symbols "basic"
 {
-	name[Group1] = "Fongbe";
+	name[Group1] = "Dendicine";
 	key <AB01> { [              w,              W,  guillemotleft                 ] }; // w W « 
 	key <AB02> { [              x,              X, guillemotright                 ] }; // x X » 
 	key <AB03> { [              c,              C,      copyright                 ] }; // c C © 
